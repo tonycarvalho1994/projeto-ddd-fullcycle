@@ -1,0 +1,10 @@
+**
+!src
+!src/**
+!.gitignore
+!.swcrc
+!jest.config.ts
+!package-lock.json
+!package.json
+!tsconfig.json
+!tslint.json
